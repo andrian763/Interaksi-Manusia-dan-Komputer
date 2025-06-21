@@ -4,7 +4,7 @@ Link Prototype : https://www.figma.com/proto/P4d26CHtCAvTBhKiCaiCgO/imk--Copy-?n
 
 Link Figma : https://www.figma.com/design/P4d26CHtCAvTBhKiCaiCgO/imk--Copy-?node-id=2333-408&t=S5cP6tl3ZwLFvjyx-0
 
-Link Behance : https://www.behance.net/gallery/228644419/Lapor-Wapres
+Link Behance : https://www.behance.net/gallery/228670443/LAPOR-WAPRES
 
 📢 **Lapor Wapres** adalah prototipe aplikasi berbasis web & mobile yang dirancang untuk meningkatkan partisipasi masyarakat dalam menyampaikan keluhan dan aspirasi terhadap kebijakan maupun fasilitas publik di Indonesia. Proyek ini dikembangkan sebagai bagian dari tugas mata kuliah **Interaksi Manusia dan Komputer (IMK)**, Universitas Negeri Surabaya.
 
