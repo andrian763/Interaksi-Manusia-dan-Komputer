@@ -1,4 +1,4 @@
-# 🇮🇩 Lapor Wapres Program – Platform Aspirasi Publik Digital Berbasis UX Design
+# Lapor Wapres Program – Platform Aspirasi Publik Digital Berbasis UX Design
 
 Link Prototype : https://www.figma.com/proto/P4d26CHtCAvTBhKiCaiCgO/imk--Copy-?node-id=44-67&t=S5cP6tl3ZwLFvjyx-0&scaling=scale-down&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=2191%3A191
 
