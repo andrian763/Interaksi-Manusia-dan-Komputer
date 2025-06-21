@@ -1,7 +1,9 @@
 # 🇮🇩 Lapor Wapres Program – Platform Aspirasi Publik Digital Berbasis UX Design
 
 Link Prototype : https://www.figma.com/proto/P4d26CHtCAvTBhKiCaiCgO/imk--Copy-?node-id=44-67&t=S5cP6tl3ZwLFvjyx-0&scaling=scale-down&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=2191%3A191
+
 Link Figma : https://www.figma.com/design/P4d26CHtCAvTBhKiCaiCgO/imk--Copy-?node-id=2333-408&t=S5cP6tl3ZwLFvjyx-0
+
 Link Behance : https://www.behance.net/gallery/228644419/Lapor-Wapres
 
 📢 **Lapor Wapres** adalah prototipe aplikasi berbasis web & mobile yang dirancang untuk meningkatkan partisipasi masyarakat dalam menyampaikan keluhan dan aspirasi terhadap kebijakan maupun fasilitas publik di Indonesia. Proyek ini dikembangkan sebagai bagian dari tugas mata kuliah **Interaksi Manusia dan Komputer (IMK)**, Universitas Negeri Surabaya.
